@@ -1,0 +1,11 @@
+{
+  "name": "e-gurukul-se",
+  "version": "1.0.0",
+  "description": "an e learning portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anushka Phogat",
+  "license": "ISC"
+}
